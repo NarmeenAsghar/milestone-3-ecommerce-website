@@ -1,0 +1,115 @@
+[
+    {
+      "id": 1,
+      "category": "rings",
+      "name": "Silver Ring",
+      "price": "1900 PKR",
+      "image": "/rings-1.jpg"
+    },
+    {
+      "id": 2,
+      "category": "rings",
+      "name": "Engagement Ring",
+      "price": "5700 PKR",
+      "image": "/rings-2.jpg"
+    },
+    {
+      "id": 3,
+      "category": "rings",
+      "name": "lavish Silver Ring",
+      "price": "2500 PKR",
+      "image": "/rings-3.jpg"
+    },
+    {
+      "id": 4,
+      "category": "rings",
+      "name": "Gold and Silver Ring",
+      "price": "1000 PKR",
+      "image": "/rings-4.jpg"
+    },
+    {
+      "id": 5,
+      "category": "earrings",
+      "name": "Blossom Earrings",
+      "price": "1500 PKR",
+      "image": "/earrings-1.webp"
+    },
+    {
+      "id": 6,
+      "category": "earrings",
+      "name": "Crest Earrings",
+      "price": "999 PKR",
+      "image": "/earrings-2.webp"
+    },
+    {
+      "id": 7,
+      "category": "earrings",
+      "name": "Diamond Earrings",
+      "price": "2000 PKR",
+      "image": "/earrings-3.webp"
+    },
+    {
+      "id": 8,
+      "category": "earrings",
+      "name": "WingDrop Earrings",
+      "price": "1000 PKR",
+      "image": "/earrings-4.jpg"
+    },
+    {
+      "id": 9,
+      "category": "necklaces",
+      "name": "Butterfly Necklace",
+      "price": "900 PKR",
+      "image": "/necklace-1.webp"
+    },
+    {
+      "id": 10,
+      "category": "necklaces",
+      "name": "Silver Pear Necklace",
+      "price": "850 PKR",
+      "image": "/necklace-2.webp"
+    },
+    {
+      "id": 11,
+      "category": "necklaces",
+      "name": "Gold Pendant Set",
+      "price": "1100 PKR",
+      "image": "/necklace-3.webp"
+    },
+    {
+      "id": 12,
+      "category": "necklaces",
+      "name": "Star Charm Set",
+      "price": "1299 PKR",
+      "image": "/necklace-4.webp"
+    },
+    {
+      "id": 13,
+      "category": "bracelets",
+      "name": "Silver Bracelet",
+      "price": "600 PKR",
+      "image": "/bracelets-1.webp"
+    },
+    {
+      "id": 14,
+      "category": "bracelets",
+      "name": "Gemstone Bracelet",
+      "price": "800 PKR",
+      "image": "/bracelets-2.webp"
+    },
+    {
+      "id": 15,
+      "category": "bracelets",
+      "name": "Starfall Bracelet",
+      "price": "500 PKR",
+      "image": "/bracelets-3.webp"
+    },
+    {
+      "id": 16,
+      "category": "bracelets",
+      "name": "Sparkle Bracelet",
+      "price": "999 PKR",
+      "image": "/bracelets-4.webp"
+    }
+  ]
+  
